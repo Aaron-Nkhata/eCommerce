@@ -1,0 +1,10 @@
+@charset "utf-8";
+    
+    body {background-color:#080808;margin: 0px;text-align:left;}
+    a:link,a:visited{text-decoration:none;}
+   
+    .left_list{font-size:14px; margin-top:10px; padding-right:12px; display:block; width:135px;
+    height:30px; line-height:30px; border-bottom:1px dotted #ccc; color:#f0f3f7; text-align:center;
+     font-family:"Times New Roman";}
+   
+    .left_list:hover{background:#007cc2; color:#FFF;}
